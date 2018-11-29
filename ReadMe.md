@@ -49,4 +49,7 @@ Pass an input image to equalize along with its output file you want to save into
  
 `./exec input.pgm output.pgm`
 
+Results:
 
+![image](https://github.com/dimimal/High_Performance_Computing/tree/master/Histogram_Equalization/images/planet_surface.pgm | width=1024 height=768)
+![image]([processedPlanet.pgm](https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/processedPlanet.pgm | width=1024 height=768)
