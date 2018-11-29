@@ -51,6 +51,6 @@ Pass an input image to equalize along with its output file you want to save into
 
 Results:
 
-<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/x_ray.pgm?raw=true" width="1024" height="768" />
+<img src="https://drive.google.com/file/d/1NULquE3A6Ay7ZmkGMZtH7w_vjQmURA4P/view?usp=sharing" width="1024" height="768" />
 
 <img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/processedXray.pgm?raw=true" width="1024" height="768" />
