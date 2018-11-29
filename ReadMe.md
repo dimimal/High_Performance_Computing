@@ -40,7 +40,7 @@ GPU time: 58.340351 ms.
 
 The results have been taken on a different machine than the results above but they are proportional.
 
-![screenshot](Screenshot_2018-11-19_20-50-39.png)
+![image](https://github.com/dimimal/High_Performance_Computing/blob/master/Convolutions/Results.png)
 
 ## Histogram Equalization
 In Histogram Equalization folder run `make` to create the object file.
@@ -48,3 +48,5 @@ In Histogram Equalization folder run `make` to create the object file.
 Pass an input image to equalize along with its output file you want to save into
  
 `./exec input.pgm output.pgm`
+
+
