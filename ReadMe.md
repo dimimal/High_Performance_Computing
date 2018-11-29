@@ -49,8 +49,5 @@ Pass an input image to equalize along with its output file you want to save into
  
 `./exec input.pgm output.pgm`
 
-Results:
 
-<img src="https://drive.google.com/file/d/1NULquE3A6Ay7ZmkGMZtH7w_vjQmURA4P/view?usp=sharing" width="1024" height="768" />
-
-<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/processedXray.pgm?raw=true" width="1024" height="768" />
+Check on Histogram_Equalization/images folder for the results of histogram equalization applied on images
