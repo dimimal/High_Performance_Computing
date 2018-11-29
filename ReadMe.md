@@ -40,7 +40,7 @@ GPU time: 58.340351 ms.
 
 The results have been taken on a different machine than the results above but they are proportional.
 
-<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Convolutions/Results.png" width="512" height="512" />
+<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Convolutions/Results.png" width="512" height="648" />
 
 ## Histogram Equalization
 In Histogram Equalization folder run `make` to create the object file.
@@ -51,6 +51,6 @@ Pass an input image to equalize along with its output file you want to save into
 
 Results:
 
-<img src="https://github.com/dimimal/High_Performance_Computing/tree/master/Histogram_Equalization/images/x_ray.pgm" width="1024" height="768" />
+<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/x_ray.pgm?raw=true" width="1024" height="768" />
 
-<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/processedXray.pgm" width="1024" height="768" />
+<img src="https://github.com/dimimal/High_Performance_Computing/blob/master/Histogram_Equalization/images/processedXray.pgm?raw=true" width="1024" height="768" />
